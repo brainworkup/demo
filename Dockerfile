@@ -2,7 +2,7 @@
 FROM rocker/verse:4.2.1
 
 # required
-MAINTAINER Joey Trampush <your_email@somewhere.com>
+MAINTAINER Joey Trampush <j.trampush@gmail.com>
 
 COPY . /demo
 
